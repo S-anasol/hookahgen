@@ -1,5 +1,6 @@
 # AngularJS Hookahgen - mix generator
 
+![Hookahgen](http://dsro.ru/gyazo/images/4a1ef6ca53518b85b7d55a714af9.png)
 
 ## About
 The [Hookahgen](http://sanasol.ws/hookahgen/) is a simple hookah mix generator.
